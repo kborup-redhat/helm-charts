@@ -7,7 +7,7 @@ entries:
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: c226162393777fbe5fad528f430c3549a384f116056609d35cfd5f8336898fc4
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: springdo
     - name: ckavili
@@ -22,7 +22,7 @@ entries:
     created: "2020-06-03T13:57:53.005796+02:00"
     description: "A Helm chart for deploying and managing Openshift projects \U0001F986"
     digest: c8239930af5d53a13703ecd41efbca0f0588bccf639fcdabb927b740a36d7f15
-    home: https://github.com/rht-labs/charts
+    home: https://github.com/kborup-redhat/charts
     maintainers:
     - name: springdo
     - name: ckavili
@@ -37,7 +37,7 @@ entries:
     created: "2020-06-03T13:57:53.006332+02:00"
     description: A Helm chart to deploy the Developer Experience Dashboard
     digest: 13a5632656b653cd157f52360de1d0c0582af2f26a6dd701874c3a983b0ab06b
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: springdo
     - name: ckavili
@@ -53,7 +53,7 @@ entries:
     created: "2020-06-03T13:57:53.006873+02:00"
     description: A Helm chart for etherpad lite
     digest: c0e25022b2a7a1d81f4ab8e3f11a54963c0f62b0ef91da10108f2b2f870509be
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: eformat
     name: etherpad
@@ -83,7 +83,7 @@ entries:
     created: "2020-06-03T13:57:53.008607+02:00"
     description: A Helm chart to create OperatorHub subscriptions
     digest: 0d5bc3a529302987f45d74359f15b7e0eddf9120ab1c61da16be89c91d02005b
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: tylerauerbeck
     - name: ckavili
@@ -99,7 +99,7 @@ entries:
     created: "2020-06-03T13:57:53.009662+02:00"
     description: A Helm chart for Owncloud
     digest: 4201f41b8b160218bfd9237667f8bf2da848a7af03e092531c1d99b858fae672
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: eformat
     name: owncloud
@@ -113,7 +113,7 @@ entries:
     created: "2020-06-03T13:57:53.010442+02:00"
     description: "A Helm chart for deploying Pact Broker on OpenShift \U0001F517"
     digest: d0597e6b4dd224edf908dbfc2594ba9fb7acaf87a461c60c58c89dd88a0a21a7
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: mvmaestri
     - name: gsampaio
@@ -147,7 +147,7 @@ entries:
     created: "2020-06-03T13:57:53.012964+02:00"
     description: Sonatype Nexus is an open source repository manager
     digest: a04b7ddc295edc6d1d2c4a9b4d53082946f94d3195f0239692f2f6e81794de50
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: eformat
     name: sonatype-nexus
@@ -162,7 +162,7 @@ entries:
     created: "2020-06-03T13:57:53.01432+02:00"
     description: A Helm chart for deploying a static-site with auto-updating
     digest: fe17e32c486d7db03af2a96ba9515a064081e729cb55524390bc0e9e106e217a
-    home: https://github.com/rht-labs/helm-charts
+    home: https://github.com/kborup-redhat/helm-charts
     maintainers:
     - name: jijiechen
     name: static-site
