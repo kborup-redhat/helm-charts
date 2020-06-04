@@ -3,7 +3,7 @@ app_name: dev-ex-dashboard
 # Docker deets
 deployment:
   image:
-    name: "quay.io/rht-labs/dev-ex-dashboard"
+    name: "quay.io/kborup-redhat/dev-ex-dashboard"
     tag: "latest"
 
 # OCP route
@@ -20,7 +20,7 @@ config:
 
   # Optional message
   message:
-    url: https://github.com/rht-labs/dev-ex-dashboard
+    url: https://github.com/kborup-redhat/dev-ex-dashboard
     title: "Demo !"
     content: 'This is a dummy homepage - please create a configmap'
 
@@ -28,14 +28,14 @@ config:
   links:
     - name: "Ubiquitous Journey"
       icon: "fab fa-github"
-      url: "https://github.com/rht-labs/ubiquitous-journey"
+      url: "https://github.com/kborup-redhat/ubiquitous-journey"
       target: '_blank'
     - name: "Open Management Portal"
       icon: "fab fa-github"
-      url: "https://github.com/rht-labs/open-management-portal"
+      url: "https://github.com/kborup-redhat/open-management-portal"
     - name: "Helm Charts"
       icon: "fab fa-github"
-      url: "https://github.com/rht-labs/helm-charts"
+      url: "https://github.com/kborup-redhat/helm-charts"
     - name: "DO500 "
       icon: "fab fa-github"
-      url: "https://github.com/rht-labs/enablement-docs"
+      url: "https://github.com/kborup-redhat/enablement-docs"

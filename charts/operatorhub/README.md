@@ -15,7 +15,7 @@ This chart enables specific operators as it creates a subscription for the speci
 To add the chart repo:
 
 ```bash
-$ helm repo add rht-labs https://rht-labs.github.io/rht-labs
+$ helm repo add kborup-redhat https://kborup-redhat.github.io/kborup-redhat
 ```
 After adding the chart repo, create a YAML file to specify the overrides in the following structure:
 
