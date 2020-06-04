@@ -3,7 +3,7 @@ entries:
   argocd-operator:
   - apiVersion: v2
     appVersion: v1.5.4
-    created: "2020-06-04T10:12:39.826886+02:00"
+    created: "2020-06-04T10:14:13.611233+02:00"
     description: A Helm chart for customising the deployment of the ArgoCD Operator
       ⚓️
     digest: f67eb3487674bf8e6123ba1219b14d071aecd4572a7bca895f8de7f84af41f20
@@ -14,12 +14,12 @@ entries:
     - name: eformat
     name: argocd-operator
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/argocd-operator-0.0.10.tgz
+    - https://kborup-redhat.github.io/helm-charts/argocd-operator-0.0.10.tgz
     version: 0.0.10
   bootstrap-project:
   - apiVersion: v1
     appVersion: v0.0.1
-    created: "2020-06-04T10:12:39.827341+02:00"
+    created: "2020-06-04T10:14:13.612201+02:00"
     description: "A Helm chart for deploying and managing Openshift projects \U0001F986"
     digest: a457f1bbf37ca07916e0d4d6ba76fbcf7f0f67c56857f3b442eb0524941c3052
     home: https://github.com/kborup-redhat/charts
@@ -29,12 +29,12 @@ entries:
     - name: eformat
     name: bootstrap-project
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/bootstrap-project-0.0.6.tgz
+    - https://kborup-redhat.github.io/helm-charts/bootstrap-project-0.0.6.tgz
     version: 0.0.6
   dev-ex-dashboard:
   - apiVersion: v2
     appVersion: v1.0
-    created: "2020-06-04T10:12:39.827742+02:00"
+    created: "2020-06-04T10:14:13.613286+02:00"
     description: A Helm chart to deploy the Developer Experience Dashboard
     digest: df83d53a3de8ec4d9cfdf9b56bac1feb671d6cd7cd079e53b549b3467fdb7574
     home: https://github.com/kborup-redhat/helm-charts
@@ -45,12 +45,12 @@ entries:
     name: dev-ex-dashboard
     type: application
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/dev-ex-dashboard-0.0.1.tgz
+    - https://kborup-redhat.github.io/helm-charts/dev-ex-dashboard-0.0.1.tgz
     version: 0.0.1
   etherpad:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-06-04T10:12:39.82894+02:00"
+    created: "2020-06-04T10:14:13.614211+02:00"
     description: A Helm chart for etherpad lite
     digest: 67085776f4c10471e5dd6f3a39b72a6c439c684fa9c194de2fc5bfc2753b2370
     home: https://github.com/kborup-redhat/helm-charts
@@ -59,12 +59,12 @@ entries:
     name: etherpad
     type: application
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/etherpad-0.0.1.tgz
+    - https://kborup-redhat.github.io/helm-charts/etherpad-0.0.1.tgz
     version: 0.0.1
   jenkins:
   - apiVersion: v2
     appVersion: v2.204.1
-    created: "2020-06-04T10:12:39.830578+02:00"
+    created: "2020-06-04T10:14:13.616311+02:00"
     description: A Helm chart for deploying Jenkins on OpenShift with some additional
       build agents and plugins
     digest: 6cd527e23036a7e0cb0108b61a881e601534df16c6cf81bf2ead63495cb4d6d2
@@ -75,12 +75,12 @@ entries:
     - name: eformat
     name: jenkins
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/jenkins-0.0.13.tgz
+    - https://kborup-redhat.github.io/helm-charts/jenkins-0.0.13.tgz
     version: 0.0.13
   operatorhub:
   - apiVersion: v2
     appVersion: 0.0.2
-    created: "2020-06-04T10:12:39.830907+02:00"
+    created: "2020-06-04T10:14:13.617282+02:00"
     description: A Helm chart to create OperatorHub subscriptions
     digest: a00dd6521773661f30fa50d34571e61c791def7f2297e324f9563d2f99173878
     home: https://github.com/kborup-redhat/helm-charts
@@ -91,12 +91,12 @@ entries:
     name: operatorhub
     type: application
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/operatorhub-0.0.4.tgz
+    - https://kborup-redhat.github.io/helm-charts/operatorhub-0.0.4.tgz
     version: 0.0.4
   owncloud:
   - apiVersion: v2
     appVersion: latest
-    created: "2020-06-04T10:12:39.831651+02:00"
+    created: "2020-06-04T10:14:13.61898+02:00"
     description: A Helm chart for Owncloud
     digest: 31a71e5cc8a003f8f240a7a8027ecab357449953a5636d9b22437b1ba3b5fbc2
     home: https://github.com/kborup-redhat/helm-charts
@@ -105,12 +105,12 @@ entries:
     name: owncloud
     type: application
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/owncloud-0.0.1.tgz
+    - https://kborup-redhat.github.io/helm-charts/owncloud-0.0.1.tgz
     version: 0.0.1
   pact-broker:
   - apiVersion: v2
     appVersion: v0.0.1
-    created: "2020-06-04T10:12:39.832422+02:00"
+    created: "2020-06-04T10:14:13.620143+02:00"
     description: "A Helm chart for deploying Pact Broker on OpenShift \U0001F517"
     digest: 17ac74be6d1b890387a31f5a7d2c5df4a1c95a7872f3339c4afe37d58bafd5f8
     home: https://github.com/kborup-redhat/helm-charts
@@ -120,12 +120,12 @@ entries:
     - name: springdo
     name: pact-broker
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/pact-broker-0.0.2.tgz
+    - https://kborup-redhat.github.io/helm-charts/pact-broker-0.0.2.tgz
     version: 0.0.2
   sonarqube:
   - apiVersion: v1
     appVersion: 8.2-community
-    created: "2020-06-04T10:12:39.833755+02:00"
+    created: "2020-06-04T10:14:13.622372+02:00"
     description: SonarQube is an open sourced code quality scanning tool
     digest: ffa27f217b66dd3fb3765fbd77d593d6216712c88a7eb6661ebc23a9de382910
     home: https://github.com/eformat/charts
@@ -139,12 +139,12 @@ entries:
     - name: eformat
     name: sonarqube
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/sonarqube-0.0.4.tgz
+    - https://kborup-redhat.github.io/helm-charts/sonarqube-0.0.4.tgz
     version: 0.0.4
   sonatype-nexus:
   - apiVersion: v1
     appVersion: 3.23.0
-    created: "2020-06-04T10:12:39.835545+02:00"
+    created: "2020-06-04T10:14:13.624068+02:00"
     description: Sonatype Nexus is an open source repository manager
     digest: 8b82bc2bf7a59662123535a2eaff650d36f91b8cb29abcee58fb4a177ac0adbb
     home: https://github.com/rht-labs/helm-charts
@@ -154,12 +154,12 @@ entries:
     sources:
     - https://github.com/sonatype/nexus-public
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/sonatype-nexus-0.0.1.tgz
+    - https://kborup-redhat.github.io/helm-charts/sonatype-nexus-0.0.1.tgz
     version: 0.0.1
   static-site:
   - apiVersion: v2
     appVersion: 1.17.9-alpine
-    created: "2020-06-04T10:12:39.835985+02:00"
+    created: "2020-06-04T10:14:13.625113+02:00"
     description: A Helm chart for deploying a static-site with auto-updating
     digest: 81d8dd2b7b00fbf62eccb5351eaee3f77928b7cbd234096dd4245c134f7803b8
     home: https://github.com/kborup-redhat/helm-charts
@@ -168,6 +168,6 @@ entries:
     name: static-site
     type: application
     urls:
-    - https://kborup-redhat.redhat.io/helm-charts/static-site-0.0.3.tgz
+    - https://kborup-redhat.github.io/helm-charts/static-site-0.0.3.tgz
     version: 0.0.3
-generated: "2020-06-04T10:12:39.82629+02:00"
+generated: "2020-06-04T10:14:13.608784+02:00"
